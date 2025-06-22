@@ -9,6 +9,8 @@
 - ⚡ Fun fact **When I'm not coding, you can find me active on LinkedIn, exploring space tech, or binge-watching sci-fi shows. I'm all about balancing tech with creativity! ✨ "Keep pushing the limits of technology, and never stop learning." 💡**
 
 <h3 align="left">Connect with me:</h3>
+![image](https://github.com/user-attachments/assets/23f062ae-831a-4cf2-af4a-414fda94e6b5)
+
 <p align="left">
 <a href="https://linkedin.com/in/aradhyapandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aradhyapandey" height="30" width="40" /></a>
 </p>
