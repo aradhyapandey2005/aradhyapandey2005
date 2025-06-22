@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aradhya Pandey</h1>
-<h3 align="center">Aspiring Tech Enthusiast | AR Explorer | Lifelong Learner Welcome to my tech-filled corner of the internet! 🎉 I'm a final year Computer Science student who thrives on curiosity, loves building, and is always hungry to learn more. 🚀</h3>
+<h3 align="center">Aspiring Tech Enthusiast | AR Explorer | Lifelong Learner 
+  Welcome to my tech-filled corner of the internet! 🎉 I'm a final year Computer Science student who thrives on curiosity, loves building, and is always hungry to learn more. 🚀</h3>
 
 - 🔭 I’m currently working on **Luxurious Creation**
 
